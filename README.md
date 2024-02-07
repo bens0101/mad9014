@@ -1,3 +1,12 @@
-# Project for Github Pages
+# Ayoub Ben Sedrine
 
-This is the sample project to be used for the github assignment in MAD9014 Fall 2023.
+![ayoub's headshot](./ayoub-headshot.jpg)
+
+student number: 041132950
+
+Program name : Mobile Application Design and Development
+
+course code and assignment completing : MADD9014 completing Github Hosting assignment
+
+intresting thing about me : i go to the gym
+
